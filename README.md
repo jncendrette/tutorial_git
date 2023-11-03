@@ -2,4 +2,5 @@
 
 ## Salvando alterações no Git
 * comando git push
+* Comando git pull
 
